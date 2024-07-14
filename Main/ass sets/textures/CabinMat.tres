@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://b3pmrw2jj6qdf"]
+
+[ext_resource type="Texture2D" uid="uid://dqpcf7iiaulk" path="res://ass sets/textures/cabin_albedo but smol.jpg" id="1_qj7oe"]
+
+[resource]
+resource_name = "M_SM_MERGED_StaticMeshActor_125"
+cull_mode = 2
+albedo_texture = ExtResource("1_qj7oe")
+metallic_specular = 0.0

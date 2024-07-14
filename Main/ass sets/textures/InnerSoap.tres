@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://4xuxguef5705"]
+
+[ext_resource type="Texture2D" uid="uid://bn3b4o3alf6r8" path="res://ass sets/textures/Untitled-2.png" id="1_exutc"]
+
+[resource]
+resource_name = "InnerSoap"
+transparency = 1
+albedo_texture = ExtResource("1_exutc")
+metallic = 0.19
+metallic_specular = 0.76
+roughness = 0.0

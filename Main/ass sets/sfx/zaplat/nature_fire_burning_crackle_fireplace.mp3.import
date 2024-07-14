@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://licq3ppstu4w"
+path="res://.godot/imported/nature_fire_burning_crackle_fireplace.mp3-9e4ec5b4c605727132e977d209178fc1.mp3str"
+
+[deps]
+
+source_file="res://ass sets/sfx/zaplat/nature_fire_burning_crackle_fireplace.mp3"
+dest_files=["res://.godot/imported/nature_fire_burning_crackle_fireplace.mp3-9e4ec5b4c605727132e977d209178fc1.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.85
+bpm=0.0
+beat_count=0
+bar_beats=4
